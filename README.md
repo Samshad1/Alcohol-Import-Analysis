@@ -32,5 +32,15 @@ Furthermore, it was observed that there was a substantial decrease in the level 
  
 ![](Imports_by_country.png)
 ## Limitations
-Due to restrictions on non-premium users, I could not further analyze this in detail, and as such more analysis would be required.
+**_Due to restrictions on non-premium users, I could not further analyze this in detail, and as such more analysis would be required._**
+---
+![](databases.png)
+
+## Recommendation and Conclusion 
+- Access to paid databases will help for more in-depth analysis, which will aid informed decision-making. It is recommended that the company looks into subscribing to one or more, that meets its business requirements or current need.
+- The bulk of alcoholic beverages imported into the country are those of HS-2208( Ethyl alcohol, undenatured and > 80%, or undenatured) which indicates that the market for this import is viable
+  
+**This analysis would require a sequel and I intend to make an analysis of the Soap making industry next.**
+
+_Thank you for reading up on this._
 

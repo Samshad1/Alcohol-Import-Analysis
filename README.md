@@ -1,7 +1,7 @@
 # Alcohol-Import-Analysis
 
-## An analysis of the alcoholic beverage import trades in Nigeria for 2021
-![](Cover_Image.jpg)
+## Analysis of the alcoholic beverage import trades in Nigeria for 2021
+![](cover.jpg)
 ---
 ## Introduction
 Alcohol consumption in present-day Nigeria dates back to ancient times, primarily consisting of palm trees and grain-based beverages. With increased trade accessibility, Nigeria now caters to a growing demand for foreign alcoholic brands.
